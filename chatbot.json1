@@ -108,7 +108,8 @@
     {
       "tag": "persyaratan_untuk_melapor_no3",
       "patterns": [
-        "Bagaimana prosedur setelah mengisi formulir?"
+        "Bagaimana prosedur setelah mengisi formulir?",
+        "Apa yang harus dilakukan setelah mengisi formulir?"
       ],
       "responses": [
         "Laporan pengaduan dapat disampaikan langsung ke ULT adapun alamatnya Gedung C Lt.1, Jl. Jenderal Sudirman, Senayan, Jakarta Pusat. Untuk pengiriman secara tidak langsung bisa melalui telepon, email, surat, dan laman kemdikbud.lapor.go.id"
@@ -139,23 +140,22 @@
         "Dokumen apa saja yang harus disertakan bersama formulir?"
       ],
       "responses": [
-        "1. Formulir pengaduan yang telah diisi lengkap,2. Identitas diri(KTP/SIM),3. Tempat dan waktu pelanggaran,4. Bentuk pelanggaran yang terjadi,5. Identitas pelaku pelanggaran",6. Bukti fisik pelanggaran"
+        "1. Formulir pengaduan yang telah diisi lengkap, 2. Identitas diri(KTP/SIM), 3. Tempat dan waktu pelanggaran, 4. Bentuk pelanggaran yang terjadi, 5. Identitas pelaku pelanggaran,6. Bukti fisik pelanggaran"
       ]
     },
     {
       "tag": "kategori_laporan_masalah",
       "patterns": [
-        "Apa saja kategori permasalahan di pendidikan?"
+        "Apa saja kategori permasalahan di pendidikan?",
+        "Apa saja bentuk permasalahan di pendidikan?"
       ],
       "responses": [
-        "Silahkan pilih salah satu kategori bentuk laporan permasalahan yang dialami terlebih dahulu",
-        "1. Ketersediaan Dana Pendidikan yang Terbatas,2. Bahan Ajar Mengajar Minimum",3. Sarana dan Prasarana Kurang Memadai,4. Jumlah Guru yang Terampil Masih Terbatas"
+        "Bentuk laporan permasalahan: 1. Ketersediaan Dana Pendidikan yang Terbatas, 2. Bahan Ajar Mengajar Minimum, 3. Sarana dan Prasarana Kurang Memadai, 4. Jumlah Guru yang Terampil Masih Terbatas"
         ]
     },
     {
       "tag": "definisi_bentuk_permasalahan1",
       "patterns": [
-        "1",
         "Apa itu ketersediaan dana pendidikan yang terbatas?",
         "Apa yang dimaksud dengan ketersediaan dana pendidikan yang terbatas?"
       ],
@@ -166,18 +166,16 @@
     {
       "tag": "definisi_bentuk_permasalahan2",
       "patterns": [
-        "2",
         "Apa itu bahan ajar mengajar minimum?",
         "Apa yang dimaksud dengan bahan ajar mengajar minimum?"
       ],
       "responses": [
-        "Terkadang tidak adanya perpustakaan atau bahan belajar gratis juga dapat menghambat proses pembelajaran murid. Bantuan seharusnya dialokasikan berupa perlengkapan belajar dan bahan ajar diberikan lebih banyak ke wilayah-wilayah yang minim bahan ajar. Kurangnya bahan ajar dengan materi yang berkualitas yang sesuai dengan kurikulum terbaru sekarang"
+        "Tidak adanya fasilitas perpustakaan atau bahan belajar gratis juga dapat menghambat proses pembelajaran murid. Bantuan seharusnya dialokasikan berupa perlengkapan belajar dan bahan ajar diberikan lebih banyak ke wilayah-wilayah yang minim bahan ajar. Kurangnya bahan ajar dengan materi yang berkualitas yang sesuai dengan kurikulum terbaru sekarang"
       ]
     },
     {
       "tag": "definisi_bentuk_permasalahan3",
       "patterns": [
-        "3",
         "Apa itu sarana dan prasarana kurang memadai?",
         "Apa yang dimaksud dengan sarana dan prasarana kurang memadai?"
       ],
@@ -188,7 +186,6 @@
     {
       "tag": "definisi_bentuk_permasalahan4",
       "patterns": [
-        "4",
         "Apa itu jumlah guru yang terampil masih terbatas?",
         "Apa yang dimaksud dengan jumlah guru yang terampil masih terbatas?"
       ],
