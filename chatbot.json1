@@ -152,7 +152,7 @@
         "Apa saja kategori permasalahan di pendidikan?"
       ],
       "responses": [
-        "Silahkan pilih salah satu kategori bentuk laporan permasalahan yang dialami terlebih dahulu"
+        "Silahkan pilih salah satu kategori bentuk laporan permasalahan yang dialami terlebih dahulu",
         "1. Ketersediaan Dana Pendidikan yang Terbatas",
         "2. Bahan Ajar Mengajar Minimum",
         "3. Sarana dan Prasarana Kurang Memadai",
@@ -205,7 +205,3 @@
     }
   ]
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
