@@ -98,7 +98,8 @@
     {
       "tag": "persyaratan_untuk_melapor_no2",
       "patterns": [
-        "Apakah pelapor atau pengadu dipungut biaya?"
+        "Apakah pelapor atau pengadu dipungut biaya?",
+        "Apakah pelapor atau pengadu akan dikenakan biaya?"
       ],
       "responses": [
         "Pelapor atau pengadu tidak dipungut biaya, namun jika ada dokumen yang harus di foto copy dan penggandaan CD dibebankan kepada pelapor atau pengadu."
