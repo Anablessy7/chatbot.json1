@@ -138,12 +138,12 @@
         "Dokumen apa saja yang harus disertakan bersama formulir?"
       ],
       "responses": [
-        "1. Formulir pengaduan yang telah diisi lengkap",
-        "2. Identitas diri(KTP/SIM)",
-        "3. Tempat dan waktu pelanggaran",
-        "4. Bentuk pelanggaran yang terjadi",
-        "5. Identitas pelaku pelanggaran",
-        "6. Bukti fisik pelanggaran"
+        "1. Formulir pengaduan yang telah diisi lengkap
+         2. Identitas diri(KTP/SIM)
+         3. Tempat dan waktu pelanggaran
+         4. Bentuk pelanggaran yang terjadi
+         5. Identitas pelaku pelanggaran
+         6. Bukti fisik pelanggaran"
       ]
     },
     {
@@ -152,13 +152,10 @@
         "Apa saja kategori permasalahan yang ada dalam dunia pendidikan?"
       ],
       "responses": [
-        "1. Ketersediaan Dana Pendidikan yang Terbatas"
-      "responses": [
-        "2. Bahan Ajar Mengajar Minimum"
-      "responses": [
-        "3. Sarana dan Prasarana Kurang Memadai"
-      "responses": [
-        "4. Jumlah Guru yang Terampil Masih Terbatas"
+        "1. Ketersediaan Dana Pendidikan yang Terbatas
+         2. Bahan Ajar Mengajar Minimum
+         3. Sarana dan Prasarana Kurang Memadai
+         4. Jumlah Guru yang Terampil Masih Terbatas"
       ]
     }
   ]
